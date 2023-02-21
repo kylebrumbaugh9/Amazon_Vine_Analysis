@@ -11,6 +11,13 @@ The dataset was pulled from https://s3.amazonaws.com/amazon-reviews-pds/tsv/inde
 ### Technology used
 I used Google Colab, pgAdmin, PySpark, and PostgreSQL in order to complete the analysis
 
+### Additional notes
+
+I was able to use my code to push the data to pgAdmin (see Amazon_Reviews_ETL.ipynb), but I wanted to make sure that I deleted the database to avoid additional charges to my AWS account. Below is a picture of the pgAdmin database prior to my deletion of the RDS in AWS
+
+![image](https://user-images.githubusercontent.com/114685724/220222746-b2c284b3-0958-4dd1-b482-0851f14a2e88.png)
+
+
 ## Results:
 I was then instructed to answer a few questions:
 1. How many Vine reviews and non-Vine Reviews were there?
