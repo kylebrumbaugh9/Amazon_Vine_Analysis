@@ -26,7 +26,7 @@ I was then instructed to answer a few questions:
 
 ![image](https://user-images.githubusercontent.com/114685724/220220941-1e6dda2d-3838-4062-baad-c1379f186ea7.png)
 
-I was able to answer these questions by importing the dataset (linked in the Dataset seection above) into Google Colab using PySpark and SparkFiles. 
+I was able to answer these questions by importing the dataset (linked in the Dataset section above) into Google Colab using PySpark and SparkFiles. 
 
 ![image](https://user-images.githubusercontent.com/114685724/220220968-180c9c48-8ff1-47d2-bc28-2d20124d2fb8.png)
 
